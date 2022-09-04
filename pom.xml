@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>upstream-corelogic</finalName>
+    <finalName>Upstream-corelogic</finalName>
   </build>
 </project>
