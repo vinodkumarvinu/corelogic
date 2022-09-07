@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>AActual-corelogic</finalName>
+    <finalName>Actual-corelogic</finalName>
   </build>
 </project>
